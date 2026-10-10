@@ -1,5 +1,6 @@
-# Operating Systems Lab Record — VNRVJIET
+# Operating Systems Lab ( 25071A6231 )
 
+## INDEX
 
 [Open Experiment 1 README](experiments/01_cpu_scheduling/README.md)
 
@@ -25,7 +26,7 @@
 [Open Experiment 9 README](experiments/09_disk_scheduling/README.md)
 
 
-
+# OS RECORD
 - [`os_record.pdf`](record/os_record.pdf)
 - [`os_record.docx`](record/os_record.docx)
 
